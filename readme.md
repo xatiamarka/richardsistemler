@@ -1,6 +1,8 @@
 ### Hello, I'm Richard Unsterblich 🍦
 
-# About Me
+  <h1 align="center">About Me</h1>
+
+  <a href="https://github.com/richardsistemler/" target="_blank"><img src="https://komarev.com/ghpvc/?username=richardsistemler&label=Profile%20Visits&color=blueviolet" alt="richardsistemler"/></a>
 ```js
 class richard{
   constructor(...options) {
@@ -12,19 +14,18 @@ class richard{
   }
 }
 ```
-  
-## My Platforms
+
+  <h1 align="center">My Platforms</h1>
 - My Website: [richard](https://richardunsterblich.tk)
 - Instagram: [@richardmisali](https://instagram.com/richardmisali)
 - Discord: [@Richârd](https://discord.com/users/744229839137144925)
 - Spotify: [@Richârd](https://open.spotify.com/user/xf4uoowl3crpxfftsqztrsn7f)
 
 
-## My Code Languages
+  <h1 align="center">My Code Languages</h1>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-  <a href="https://github.com/richardsistemler/" target="_blank"><img src="https://komarev.com/ghpvc/?username=richardsistemler&label=Profile%20Visits&color=blueviolet" alt="richardsistemler"/></a>
 
   <h1 align="center">My Github Statistics</h1>
 <p align="center">
