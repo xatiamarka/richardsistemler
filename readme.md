@@ -1,8 +1,18 @@
-### Hello, I'm Richard Unsterblich 🍦
-
-  # About Me
+# Richârd Unsterblich 🍦
 ![Profile Count](https://komarev.com/ghpvc/?username=richardsistemler&color=red)&nbsp;
 [![GitHub Richârd](https://img.shields.io/github/followers/richardsistemler?label=follow&style=social)](https://github.com/richardsistemler)&nbsp;
+<a href="https://discord.com/users/744229839137144925"><img alt="Discord" src="https://img.shields.io/badge/Discord-2f3236?style=flat&logo=discord&logoColor=blue" /></a> &nbsp;
+<a href="https://instagram.com/richardmisali"><img src="https://img.shields.io/badge/@richardmisali-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+
+```
+Selamlar ben Richârd,
+
+2018 Ocak ayında giriş yaptığım discord platformuna ara verdim ve ay sonuna doğru tamamen bırakmayı düşünüyorum ve şöyle
+bir şey düşündüm, discordu kullandığım 4 sene boyunca bot kodluyordum ki bu aralar bot sektöründe yeni isimler var bende 
+onlara yararlı olması için kendi yaptıklarımı tek tek atıcam. Beğenirseniz star atmanız yeterli hatalarınız olursa kod
+yardım sunucularına gidiniz. Ben sadece kodlarımı dener hatasız bir şekilde paylaşırım hatalarınız sizinle alakalı olduğu
+için ilgim dahilinde değildir. iyi günler dilerim :)
+```
 
 ```js
 class richard{
@@ -15,11 +25,6 @@ class richard{
   }
 }
 ```
-  # My Platforms
-- My Website: [richard](https://richardunsterblich.tk)
-- Instagram: [@richardmisali](https://instagram.com/richardmisali)
-- Discord: [@Richârd](https://discord.com/users/744229839137144925)
-- Spotify: [@Richârd](https://open.spotify.com/user/xf4uoowl3crpxfftsqztrsn7f)
 
   # My Code Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
