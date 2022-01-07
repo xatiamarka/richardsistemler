@@ -45,5 +45,5 @@ class richard{
   # My Github Statistics
 <p align="center">
   <a href="https://github.com/richardsistemler/" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardsistemler&langs_count=10&custom_title=Most+Used+Languages&bg_color=171a1f&text_color=fff&icon_color=ff0000&hide_border=true&title_color=ff0000"/></a>
-  <a href="https://github.com/richardsistemler/" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=richardsistemler&show_icons=true&locale=tr&border_radius=10px&title_color=ff0000&hide_border=true&bg_color=171a1f&text_color=fff&icon_color=ff0000&custom_title=richardsistemler%27s+Github+Statistics"/></a>
+  <a href="https://github.com/richardsistemler/" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=richardsistemler&show_icons=true&border_radius=10px&title_color=ff0000&hide_border=true&bg_color=171a1f&text_color=fff&icon_color=ff0000&custom_title=richardsistemler%27s+Github+Statistics"/></a>
 </p>
