@@ -17,10 +17,17 @@ için ilgim dahilinde değildir. iyi günler dilerim :)
 ```js
 class richard{
   constructor(...options) {
-    this.height = "1.70"
-    this.weight = "70"
-    this.type = "human"
-    this.job = "programmer"
+    this.name = "Richârd",
+    this.surname = "Unsterblich",
+    this.hometown = "Norway",
+    this.birthday = "22",
+    this.birthmonth = "August",
+    this.birthyear = "2002",
+    this.age = "19",
+    this.height = "1.70",
+    this.weight = "70",
+    this.type = "human",
+    this.job = "programmer",
     this.sex = "male"
   }
 }
