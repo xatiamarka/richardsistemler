@@ -26,8 +26,8 @@ class richard{
 
 
   <h1 align="center">My Github Statistics</h1>
-  <a href="https://github.com/richardsistemler/" target="_blank"><img src="https://komarev.com/ghpvc/?username=richardsistemler&label=Profil%20Ziyareti&color=blueviolet" alt="richardsistemler"/></a>
 <p align="center">
+  <a href="https://github.com/richardsistemler/" target="_blank"><img src="https://komarev.com/ghpvc/?username=richardsistemler&label=Profil%20Ziyareti&color=blueviolet" alt="richardsistemler"/></a>
   <a href="https://github.com/richardsistemler/" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardsistemler&langs_count=10&custom_title=Most+Most+Used+Languages&bg_color=171a1f&text_color=fff&icon_color=ff0000&hide_border=true&title_color=ff0000"/></a>
   <a href="https://github.com/richardsistemler/" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=richardsistemler&show_icons=true&locale=tr&border_radius=10px&title_color=ff0000&hide_border=true&bg_color=171a1f&text_color=fff&icon_color=ff0000&custom_title=richardsistemler%27's+Github+Statistics"/></a>
 </p>
