@@ -1,7 +1,7 @@
 # Richârd Unsterblich 🍦
 ![Profile Count](https://komarev.com/ghpvc/?username=richardsistemler&color=red)&nbsp;
 [![GitHub Richârd](https://img.shields.io/github/followers/richardsistemler?label=follow&style=social)](https://github.com/richardsistemler)&nbsp;
-<a href="https://discord.com/users/744229839137144925"><img alt="Discord" src="https://img.shields.io/badge/Discord-2f3236?style=flat&logo=discord&logoColor=blue" /></a> &nbsp;
+<a href="https://discord.com/users/744229839137144925"><img alt="Discord" src="https://img.shields.io/badge/@richârd-2f3236?style=flat&logo=discord&logoColor=blue" /></a> &nbsp;
 <a href="https://instagram.com/richardmisali"><img src="https://img.shields.io/badge/@richardmisali-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 ```
