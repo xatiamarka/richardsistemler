@@ -21,7 +21,7 @@ class richard{
     this.surname = "Unsterblich",
     this.hometown = "Norway",
     this.birthday = "22",
-    this.birthmonth = "August",
+    this.birthmonth = "July",
     this.birthyear = "2002",
     this.age = "19",
     this.height = "1.70",
