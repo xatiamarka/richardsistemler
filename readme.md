@@ -3,6 +3,10 @@
 [![GitHub Richârd](https://img.shields.io/github/followers/richardsistemler?label=follow&style=social)](https://github.com/richardsistemler)&nbsp;
 <a href="https://discord.com/users/744229839137144925"><img alt="Discord" src="https://img.shields.io/badge/@richârd-2f3236?style=flat&logo=discord&logoColor=blue" /></a> &nbsp;
 <a href="https://instagram.com/richardmisali"><img src="https://img.shields.io/badge/@richardmisali-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/744229839137144925)](https://discord.com/users/744229839137144925)
+[![Discord Presence](https://lanyard.cnrad.dev/api/852667869782343691)](https://discord.com/users/852667869782343691)
+
 ```js
 class richard{
   constructor(options) {
